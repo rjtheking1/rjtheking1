@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **8279rajpatil@gmail.com**
 
-- 📄 Know about me [https://www.instagram.com/rj__theking?igsh=MWhtamdkdmp4dzkzdQ==](https://www.instagram.com/rj__theking?igsh=MWhtamdkdmp4dzkzdQ==)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rj__theking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rj__theking" height="30" width="40" /></a>
