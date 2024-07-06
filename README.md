@@ -3,8 +3,6 @@
 
 ![image](https://github.com/rjtheking1/rjtheking1/assets/174129721/07e532fe-f574-49e0-a43b-d0ac12c127c9)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rjtheking1&label=Profile%20views&color=0e75b6&style=flat" alt="rjtheking1" /> </p>
-
 - 🌱 I’m currently learning **GIM Course from RNW Institute...**
 
 - 📫 How to reach me **8279rajpatil@gmail.com**
